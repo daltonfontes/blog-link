@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    background-color: #fff;
+    background-color: #fafaf2;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -25,16 +25,17 @@ body {
 
 h1 {
     color: #333;
+    font-weight: 500;
 }
 
 .link-item {
-    margin: 10px 0;
+    margin: 5px 0;
 }
 
 .link-item a {
-    text-decoration: none;
-    color: #007bff;
-    font-weight: bold;
+    
+    color: #0b1111;
+    letter-spacing: 1.5px;
 }
 
 
